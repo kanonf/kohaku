@@ -14,3 +14,4 @@
 
 小游戏：吃掉小琥珀
 
+https://kanonf.github.io/kohaku
